@@ -2,7 +2,7 @@
   <a href="#">
      <img
       align="center"
-      src="https://github-profile-trophy.vercel.app/?username=Joab-S&theme=onedark"
+      src="https://github-profile-trophy.vercel.app/?username=Joab-S&theme=juicyfresh"
     />
   </a>
 </p>
