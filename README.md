@@ -12,19 +12,19 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteusaraujo&layout=compact&langs_count=7&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joab-S&layout=compact&langs_count=7&theme=dracula"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=teteusAraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=Joab-S&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     />
   </a>
 </p>
 
-## Olá, eu sou o Mateus! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá visitante, eu sou o Joab! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre mim
 <div style="display: inline_block"  >
@@ -62,16 +62,16 @@
 ## Meus contatos :iphone:
 
 <p align="center">
-    <a href="https://github.com/teteusAraujo">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
+    <a href="https://github.com/Joab-S">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Joab-S">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:mateusaraujo996@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
+    <a href="mailto:joabsilva2002@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:joabsilva2002@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/mateusaraujobarros">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
+    <a href="https://www.linkedin.com/in/joabdsr">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/joabdsr/">
     </a>
 </p>
 
@@ -79,7 +79,7 @@
 
  ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/Joab-S/count.svg" />
  </p>
 
 </p>
