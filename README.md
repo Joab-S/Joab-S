@@ -3,9 +3,11 @@
     <h1> Olá <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, sou o Joab. É um prazer! </h1>
   </div>
   <div>
-    <h2> Quem sou eu? </h2>
-    </br>
-    <p>Desenvolvedor de Softwares...</p>
+    <p>
+      <h2> Quem sou eu? </h2>
+      </br>
+      Desenvolvedor de Softwares...
+    </p>
   </div>
 </div>
 
