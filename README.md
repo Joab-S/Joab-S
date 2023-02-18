@@ -11,7 +11,7 @@
 
 <p> - 👨‍💻 Bolsista em Desenvolvimento Backend. </p>
 <p> - 👨‍🎓 Bacharelando em Matemática Industrial na UFC. </p>
-<p> - 🎯 Interesses: *Python*, *Backend*, `NodeJS`, `TypeScript`, `Docker`, `SQL`. </p>
+<p> - 🎯 Interesses: <i><b>Python</b></i>, <i><b>Backend</b></i>, <i><b>NodeJS</b></i>, <i><b>TypeScript</b></i>, <i><b>Docker</b></i>, <i><b>SQL</b></i>. </p>
 </div>
 
 ## Minhas skills:
