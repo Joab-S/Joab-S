@@ -5,9 +5,8 @@
 </div>
 
 ### Sobre mim
-<div align="center" style="display: inline_block">
-  <p>
-    Bacharelando em Matemática Industrial pela Universidade Federal do Ceará (UFC), sou amante do desenvolvimento de software, atuando no desenvolvimento web Back-end e buscando, todos os dias, ser um programador melhor. Anseio mudar vidas através da programação e do desenvolvimento de sistemas, lançando tecnologias onde há alguém que precise. </p>
+<div style="display: inline_block">
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;Bacharelando em Matemática Industrial pela Universidade Federal do Ceará (UFC), sou amante do desenvolvimento de software, atuando no desenvolvimento web Back-end e buscando, todos os dias, ser um programador melhor. Anseio mudar vidas através da programação e do desenvolvimento de sistemas, lançando tecnologias onde há alguém que precise. </p>
 
 <p> - 👨‍💻 Bolsista em Desenvolvimento Backend. </p>
 <p> - 👨‍🎓 Bacharelando em Matemática Industrial na UFC. </p>
@@ -17,6 +16,7 @@
 ## Minhas skills:
 <div align="center">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
