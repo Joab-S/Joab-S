@@ -5,19 +5,22 @@
 </div>
 
 ### Sobre mim
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   <p>
     Bacharelando em Matemática Industrial pela Universidade Federal do Ceará (UFC), sou amante do desenvolvimento de software, atuando no desenvolvimento web Back-end e buscando, todos os dias, ser um programador melhor. Anseio mudar vidas através da programação e do desenvolvimento de sistemas, lançando tecnologias onde há alguém que precise. </p>
 
 <p> - 👨‍💻 Bolsista em Desenvolvimento Backend. </p>
-<p> - 👨‍🎓 Estudante de Matemática Industrial, cursando o 4° semestre. </p>
-<p> - 🎯 Interesse: Python, API, HTML, CSS, JavaScript. </p>
+<p> - 👨‍🎓 Bacharelando em Matemática Industrial na UFC. </p>
+<p> - 🎯 Interesses: Python, Backend, NodeJS, TypeScript, Docker, SQL. </p>
 </div>
 
 ## Minhas skills:
 <div align="center">
+  <div>
+   python
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
