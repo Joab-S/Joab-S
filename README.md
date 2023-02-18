@@ -1,12 +1,12 @@
 <div align="center">
   <div>
-    <h1> Olá, me chamo Joab <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
-    <h2><sub> É um prazer ter você aqui! </sub></h2>
+    <h1> Olá, me chamo Joab <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"> </h1>
+    <h3> É um prazer ter você aqui! </h3>
   </div>
 </div>
 
-### Sobre mim
 <div style="display: inline_block">
+  <h2> Sobre mim </h2>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;Bacharelando em Matemática Industrial pela Universidade Federal do Ceará (UFC), sou amante do desenvolvimento de software, atuando no desenvolvimento web Back-end e buscando, todos os dias, ser um programador melhor. Anseio mudar vidas através da programação e do desenvolvimento de sistemas, lançando tecnologias onde há alguém que precise. </p>
 
 <p> - 👨‍💻 Bolsista em Desenvolvimento Backend. </p>
