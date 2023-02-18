@@ -2,6 +2,12 @@
   <h1>
    Olá <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, sou o Joab. É um prazer!
   </h1>
+  
+  <div>
+    <h2>
+      Quem sou eu?
+    </h2>
+  </div>
 </div>
 
 ### Sobre mim
