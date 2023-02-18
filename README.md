@@ -1,6 +1,7 @@
 <div align="center">
   <div>
-    <h1> Olá, me chamo Joab! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
+    # Olá, me chamo Joab <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+    > É um prazer ter você aqui!
   </div>
 </div>
 
@@ -10,7 +11,7 @@
 
 <p> - 👨‍💻 Bolsista em Desenvolvimento Backend. </p>
 <p> - 👨‍🎓 Bacharelando em Matemática Industrial na UFC. </p>
-<p> - 🎯 Interesses: Python, Backend, NodeJS, TypeScript, Docker, SQL. </p>
+<p> - 🎯 Interesses: `Python`, `Backend`, `NodeJS`, `TypeScript`, `Docker`, `SQL`. </p>
 </div>
 
 ## Minhas skills:
@@ -25,9 +26,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
 
 ## Meus próximos interesses:
 <div align="center">
@@ -37,7 +37,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
 </div>
 
 ## Meus contatos:
