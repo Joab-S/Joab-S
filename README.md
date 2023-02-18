@@ -1,14 +1,13 @@
 <div align="center">
   <div>
     <h1> Olá, me chamo Joab! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
-    <p>
-      Bacharelando em Matemática Industrial pela Universidade Federal do Ceará (UFC), sou amante do desenvolvimento de software, atuando no desenvolvimento web Back-end e buscando, todos os dias, ser um programador melhor. Anseio mudar vidas através da programação e do desenvolvimento de sistemas, lançando tecnologias onde há alguém que precise.
-    </p>
   </div>
 </div>
 
 ### Sobre mim
-<div style="display: inline_block"  >
+<div style="display: inline_block">
+  <p> Bacharelando em Matemática Industrial pela Universidade Federal do Ceará (UFC), sou amante do desenvolvimento de software, atuando no desenvolvimento web Back-end e buscando, todos os dias, ser um programador melhor. Anseio mudar vidas através da programação e do desenvolvimento de sistemas, lançando tecnologias onde há alguém que precise. </p>
+
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
 <p> - 👨‍💻 Bolsista em Desenvolvimento Backend. </p>
 <p> - 👨‍🎓 Estudante de Matemática Industrial, cursando o 4° semestre. </p>
