@@ -6,15 +6,15 @@
 
 ### Sobre mim
 <div style="display: inline_block">
-  <p> Bacharelando em Matemática Industrial pela Universidade Federal do Ceará (UFC), sou amante do desenvolvimento de software, atuando no desenvolvimento web Back-end e buscando, todos os dias, ser um programador melhor. Anseio mudar vidas através da programação e do desenvolvimento de sistemas, lançando tecnologias onde há alguém que precise. </p>
+  <p>
+    Bacharelando em Matemática Industrial pela Universidade Federal do Ceará (UFC), sou amante do desenvolvimento de software, atuando no desenvolvimento web Back-end e buscando, todos os dias, ser um programador melhor. Anseio mudar vidas através da programação e do desenvolvimento de sistemas, lançando tecnologias onde há alguém que precise. </p>
 
-<img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
 <p> - 👨‍💻 Bolsista em Desenvolvimento Backend. </p>
 <p> - 👨‍🎓 Estudante de Matemática Industrial, cursando o 4° semestre. </p>
 <p> - 🎯 Interesse: Python, API, HTML, CSS, JavaScript. </p>
 </div>
 
-## Minhas skills :nerd_face:
+## Minhas skills:
 <div align="center">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,7 +32,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-## Meus próximos interesses: nerd_face:
+## Meus próximos interesses:
 <div align="center">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,8 +43,7 @@
   
 </div>
 
-
-## Meus contatos :iphone:
+## Meus contatos:
 
 <p align="center">
     <a href="https://github.com/Joab-S">
