@@ -1,14 +1,3 @@
-<p align="center">
-  <a href="#">
-     <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=Joab-S&theme=onedark"
-    />
-  </a>
-</p>
-</br>
-</br>
-
 ## Olá visitante, eu sou o Joab! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre mim
