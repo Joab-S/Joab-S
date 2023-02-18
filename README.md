@@ -1,7 +1,7 @@
 <div align="center">
   <div>
     <h1> Olá, me chamo Joab <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
-    > É um prazer ter você aqui!
+    <sub> É um prazer ter você aqui! </sub>
   </div>
 </div>
 
