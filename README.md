@@ -1,6 +1,8 @@
-<center>
-## Olá visitante, eu sou o Joab! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-</center>
+<p align="center">
+  <h1>
+   Olá visitante, eu sou o Joab! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+  </h1>
+</p>
 
 ### Sobre mim
 <div style="display: inline_block"  >
