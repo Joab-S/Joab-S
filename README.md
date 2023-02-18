@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-   Olá visitante, eu sou o Joab! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+   Olá <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, sou o Joab. É um prazer!
   </h1>
 </div>
 
