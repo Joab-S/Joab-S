@@ -7,10 +7,10 @@
 
 <div style="display: inline_block">
   <h2> Sobre mim </h2>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;Bacharelando em Matemática Industrial pela Universidade Federal do Ceará (UFC), sou amante do desenvolvimento de software, atuando no desenvolvimento web Back-end e buscando, todos os dias, ser um programador melhor. Anseio mudar vidas através da programação e do desenvolvimento de sistemas, lançando tecnologias onde há alguém que precise. </p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;Bacharelando em Ciência de Dados pela Universidade Federal do Ceará (UFC), sou amante do desenvolvimento de software, atuando no desenvolvimento web Back-end e buscando, todos os dias, ser um programador melhor. Anseio mudar vidas através da programação e do desenvolvimento de sistemas, lançando tecnologias onde há alguém que precise. </p>
 
 <p> - 👨‍💻 Bolsista em Desenvolvimento Backend. </p>
-<p> - 👨‍🎓 Bacharelando em Matemática Industrial na UFC. </p>
+<p> - 👨‍🎓 Bacharelando em Ciência de Dados na UFC. </p>
 <p> - 🎯 Interesses: <i><b>Python</b></i>, <i><b>Backend</b></i>, <i><b>NodeJS</b></i>, <i><b>TypeScript</b></i>, <i><b>Docker</b></i>, <i><b>SQL</b></i>. </p>
 </div>
 
@@ -45,7 +45,7 @@
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Joab-S">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:joabsilva2002@gmail.com">
+    <a href="mailto:joabdev11@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:joabsilva2002@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
