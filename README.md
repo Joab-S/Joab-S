@@ -9,7 +9,7 @@
   <h2> Sobre mim </h2>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;Bacharelando em Ciência de Dados pela Universidade Federal do Ceará (UFC), sou amante do desenvolvimento de software, atuando no desenvolvimento web Back-end e buscando, todos os dias, ser um programador melhor. Anseio mudar vidas através da programação e do desenvolvimento de sistemas, lançando tecnologias onde há alguém que precise. </p>
 
-<p> - 👨‍💻 Bolsista em Desenvolvimento Backend. </p>
+<p> - 👨‍💻 Desenvolvedor Pleno </p>
 <p> - 👨‍🎓 Bacharelando em Ciência de Dados na UFC. </p>
 <p> - 🎯 Interesses: <i><b>Python</b></i>, <i><b>Backend</b></i>, <i><b>NodeJS</b></i>, <i><b>TypeScript</b></i>, <i><b>Docker</b></i>, <i><b>SQL</b></i>. </p>
 </div>
